@@ -19,8 +19,8 @@ In this case I am posting to @euskaltantak twitter account basque-spanish transl
     * cp config/twitter_credentials_EXAMPLE.json config/twitter_credentials.json
     * Set correct credentials from step one on config/twitter_credentials.json file
   - Post to twitter
-    * This posts a message to the account: php web/post_status_to_twitter.php
-    I have it on the web folder, so I can also call it from the outside.
+    * cd web && php post_status_to_twitter.php
+
 
 
 ## I want to post something else
