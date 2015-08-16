@@ -20,6 +20,7 @@ In this case I am posting to @euskaltantak twitter account basque-spanish transl
     * Set correct credentials from step one on config/twitter_credentials.json file
   - Post to twitter
     * This posts a message to the account: php web/post_status_to_twitter.php
+    I have it on the web folder, so I can also call it from the outside.
 
 
 ## I want to post something else
@@ -28,7 +29,9 @@ You have to implement this simple interface: src/Feed/TwitterFeed.php
 
 ```php
 <?php
+
 namespace TwitterJunkieBot\Feed;
+
 interface TwitterFeed
 {
     /** Get a status message to be posted in twitter
@@ -38,6 +41,7 @@ interface TwitterFeed
 }
 ```
 
-In my case, I created: src/Feed/TwitterFeedBasqueDictionary.php which will use a
-basque-spanish translation dictionary json to build a message. But you can create your own and change
-this file, web/post_status_to_twitter.php injecting your own implementation
+In my case, I created: src/Feed/TwitterFeedBasqueDictionary.php
+which builds a message, from a Basque-Spanish json dictionary. But you can create your own implementation and directly
+inject it on this class:
+web/post_status_to_twitter.php
