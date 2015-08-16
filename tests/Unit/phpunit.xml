@@ -1,0 +1,8 @@
+<phpunit bootstrap="Bootstrap.php">
+    <filter>
+        <!-- http://stackoverflow.com/questions/29041254/phpunit-coverage-what-is-the-difference-between-adduncoveredfilesfromwhitelist -->
+        <whitelist processUncoveredFilesFromWhitelist="true" addUncoveredFilesFromWhitelist="true">
+            <directory suffix=".php">../../src/</directory>
+        </whitelist>
+    </filter>
+</phpunit>

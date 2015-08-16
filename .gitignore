@@ -1,0 +1,6 @@
+config/twitter_credentials.json
+
+vendor
+logs/*
+tests/reports
+.idea

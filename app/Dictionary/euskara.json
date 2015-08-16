@@ -1,0 +1,3060 @@
+{
+  "translations": [
+    {
+      "source": "abendu",
+      "target": "diciembre"
+    },
+    {
+      "source": "aberats",
+      "target": "rico, adinerado"
+    },
+    {
+      "source": "abuztu",
+      "target": "agosto"
+    },
+    {
+      "source": "adibide",
+      "target": "ejemplo"
+    },
+    {
+      "source": "adi egon",
+      "target": "estar atento"
+    },
+    {
+      "source": "adimen",
+      "target": "inteligencia"
+    },
+    {
+      "source": "aditu",
+      "target": "1 escuchar. 2 entender"
+    },
+    {
+      "source": "adiskide",
+      "target": "amigo"
+    },
+    {
+      "source": "ados",
+      "target": "de acuerdo"
+    },
+    {
+      "source": "afaldu",
+      "target": "cenar"
+    },
+    {
+      "source": "afari",
+      "target": "cena"
+    },
+    {
+      "source": "agertu",
+      "target": "aparecer"
+    },
+    {
+      "source": "agur",
+      "target": "1 adi\u00f3s. 2 saludo (en general)"
+    },
+    {
+      "source": "agure",
+      "target": "anciano"
+    },
+    {
+      "source": "agurtu",
+      "target": "1 saludar. 2 despedir"
+    },
+    {
+      "source": "ahaztu",
+      "target": "olvidar(se)"
+    },
+    {
+      "source": "ahizpa",
+      "target": "hermana (de una mujer)"
+    },
+    {
+      "source": "aho",
+      "target": "boca"
+    },
+    {
+      "source": "aita",
+      "target": "padre"
+    },
+    {
+      "source": "aitona",
+      "target": "abuelo"
+    },
+    {
+      "source": "aitortu",
+      "target": "confesar"
+    },
+    {
+      "source": "alaba",
+      "target": "hija"
+    },
+    {
+      "source": "alai",
+      "target": "alegre"
+    },
+    {
+      "source": "alde",
+      "target": "parte, lado"
+    },
+    {
+      "source": "aldizkari",
+      "target": "revista"
+    },
+    {
+      "source": "alfer",
+      "target": "vago"
+    },
+    {
+      "source": "alkandora",
+      "target": "camisa"
+    },
+    {
+      "source": "alkate",
+      "target": "alcalde"
+    },
+    {
+      "source": "altu",
+      "target": "alto"
+    },
+    {
+      "source": "altxatu",
+      "target": "levantar(se)"
+    },
+    {
+      "source": "alu",
+      "target": "vagina"
+    },
+    {
+      "source": "ama",
+      "target": "madre"
+    },
+    {
+      "source": "amaitu",
+      "target": "terminar"
+    },
+    {
+      "source": "amona",
+      "target": "abuela"
+    },
+    {
+      "source": "anaia",
+      "target": "hermano (de un hombre)"
+    },
+    {
+      "source": "anai-arrebak",
+      "target": "hermano(s) y hermana(s)"
+    },
+    {
+      "source": "andre",
+      "target": "mujer"
+    },
+    {
+      "source": "antzerki",
+      "target": "teatro"
+    },
+    {
+      "source": "apiril",
+      "target": "abril"
+    },
+    {
+      "source": "apurtu",
+      "target": "romper"
+    },
+    {
+      "source": "arazo",
+      "target": "problema"
+    },
+    {
+      "source": "arbela",
+      "target": "pizarra, tablero"
+    },
+    {
+      "source": "ardi",
+      "target": "oveja"
+    },
+    {
+      "source": "ardo",
+      "target": "vino"
+    },
+    {
+      "source": "argal",
+      "target": "delgado"
+    },
+    {
+      "source": "argazki",
+      "target": "fotograf\u00eda"
+    },
+    {
+      "source": "argi",
+      "target": "1 luz. 2 claro"
+    },
+    {
+      "source": "ari izan",
+      "target": "estar haciendo algo"
+    },
+    {
+      "source": "ariketa",
+      "target": "ejercicio"
+    },
+    {
+      "source": "arrain",
+      "target": "pez, pescado"
+    },
+    {
+      "source": "arrantza",
+      "target": "1 pesca. 2 rebuzno"
+    },
+    {
+      "source": "arrantzale",
+      "target": "pescador"
+    },
+    {
+      "source": "arrats",
+      "target": "anochecer"
+    },
+    {
+      "source": "arratsalde",
+      "target": "tarde (sust.)"
+    },
+    {
+      "source": "arratsaldeon",
+      "target": "buenas tardes"
+    },
+    {
+      "source": "arrautza",
+      "target": "huevo"
+    },
+    {
+      "source": "arrazoi",
+      "target": "raz\u00f3n"
+    },
+    {
+      "source": "arreba",
+      "target": "hermana (de hombre)"
+    },
+    {
+      "source": "artalde",
+      "target": "reba\u00f1o de ovejas"
+    },
+    {
+      "source": "artazi",
+      "target": "tijeras"
+    },
+    {
+      "source": "arte",
+      "target": "1 hasta. 2 entre"
+    },
+    {
+      "source": "arto",
+      "target": "maiz"
+    },
+    {
+      "source": "askatasun",
+      "target": "libertad"
+    },
+    {
+      "source": "askatu",
+      "target": "1 liberar. 2 soltar"
+    },
+    {
+      "source": "asko",
+      "target": "mucho(s)"
+    },
+    {
+      "source": "askotan",
+      "target": "muchas veces"
+    },
+    {
+      "source": "asmatu",
+      "target": "acertar, inventar"
+    },
+    {
+      "source": "asmo",
+      "target": "intenci\u00f3n"
+    },
+    {
+      "source": "aspaldian",
+      "target": "hace mucho tiempo"
+    },
+    {
+      "source": "aspalditik",
+      "target": "desde hace tiempo"
+    },
+    {
+      "source": "aspertu",
+      "target": "aburrir(se)"
+    },
+    {
+      "source": "aste",
+      "target": "semana"
+    },
+    {
+      "source": "astearte",
+      "target": "martes"
+    },
+    {
+      "source": "asteazken",
+      "target": "mi\u00e9rcoles"
+    },
+    {
+      "source": "astekari",
+      "target": "semanario"
+    },
+    {
+      "source": "astelehen",
+      "target": "lunes"
+    },
+    {
+      "source": "asto",
+      "target": "burro"
+    },
+    {
+      "source": "atari",
+      "target": "portal"
+    },
+    {
+      "source": "ate",
+      "target": "puerta"
+    },
+    {
+      "source": "atera",
+      "target": "1 salir. 2 sacar"
+    },
+    {
+      "source": "atertu",
+      "target": "escampar"
+    },
+    {
+      "source": "atsegin",
+      "target": "agradable"
+    },
+    {
+      "source": "atze",
+      "target": "atr\u00e1s"
+    },
+    {
+      "source": "atzo",
+      "target": "ayer"
+    },
+    {
+      "source": "aukeratu",
+      "target": "elegir"
+    },
+    {
+      "source": "aulki",
+      "target": "silla"
+    },
+    {
+      "source": "aurkitu",
+      "target": "encontrar"
+    },
+    {
+      "source": "aurpegi",
+      "target": "cara, rostro"
+    },
+    {
+      "source": "aurre",
+      "target": "delante, enfrente"
+    },
+    {
+      "source": "auto",
+      "target": "coche"
+    },
+    {
+      "source": "auzo",
+      "target": "barrio"
+    },
+    {
+      "source": "azal",
+      "target": "piel"
+    },
+    {
+      "source": "azaldu",
+      "target": "1 explicar. 2 aparecer"
+    },
+    {
+      "source": "azaro",
+      "target": "noviembre"
+    },
+    {
+      "source": "azkar",
+      "target": "1 r\u00e1pido. 2 listo"
+    },
+    {
+      "source": "azken",
+      "target": "\u00faltimo"
+    },
+    {
+      "source": "azkenean",
+      "target": "por fin"
+    },
+    {
+      "source": "azoka",
+      "target": "mercado"
+    },
+    {
+      "source": "azpi",
+      "target": "debajo"
+    },
+    {
+      "source": "azterketa",
+      "target": "examen"
+    },
+    {
+      "source": "aztertu",
+      "target": "examinar"
+    },
+    {
+      "source": "badaezpada",
+      "target": "por si acaso"
+    },
+    {
+      "source": "bai",
+      "target": "s\u00ed (afirmaci\u00f3n)"
+    },
+    {
+      "source": "baietz",
+      "target": "1 que s\u00ed. 2 a que s\u00ed"
+    },
+    {
+      "source": "baina",
+      "target": "pero"
+    },
+    {
+      "source": "baizik",
+      "target": "sino"
+    },
+    {
+      "source": "bakarrik",
+      "target": "solo, solamente"
+    },
+    {
+      "source": "bakoitz",
+      "target": "cada uno"
+    },
+    {
+      "source": "baldar",
+      "target": "torpe"
+    },
+    {
+      "source": "balio izan",
+      "target": "valer"
+    },
+    {
+      "source": "balkoi",
+      "target": "balc\u00f3n"
+    },
+    {
+      "source": "baloi",
+      "target": "bal\u00f3n"
+    },
+    {
+      "source": "barazki",
+      "target": "verdura"
+    },
+    {
+      "source": "barkatu",
+      "target": "1 perdonar. 2 \u00a1perd\u00f3n!"
+    },
+    {
+      "source": "barre",
+      "target": "risa"
+    },
+    {
+      "source": "barre egin",
+      "target": "re\u00edr"
+    },
+    {
+      "source": "barru",
+      "target": "parte interior, dentro"
+    },
+    {
+      "source": "baserri",
+      "target": "caser\u00edo"
+    },
+    {
+      "source": "baserritar",
+      "target": "habitante de un caser\u00edo"
+    },
+    {
+      "source": "baso",
+      "target": "1 bosque. 2 vaso"
+    },
+    {
+      "source": "bat",
+      "target": "uno"
+    },
+    {
+      "source": "batzuetan",
+      "target": "algunas veces"
+    },
+    {
+      "source": "bazkaldu",
+      "target": "comer (al mediod\u00eda)"
+    },
+    {
+      "source": "bazkari",
+      "target": "comida (al mediod\u00eda)"
+    },
+    {
+      "source": "bederatzi",
+      "target": "nueve"
+    },
+    {
+      "source": "begi",
+      "target": "ojo"
+    },
+    {
+      "source": "begiratu",
+      "target": "mirar"
+    },
+    {
+      "source": "behar bada",
+      "target": "quiz\u00e1"
+    },
+    {
+      "source": "behar izan",
+      "target": "1 necesitar. 2 deber hace algo"
+    },
+    {
+      "source": "behatz",
+      "target": "dedo"
+    },
+    {
+      "source": "behe",
+      "target": "parte inferior, abajo"
+    },
+    {
+      "source": "behi",
+      "target": "vaca"
+    },
+    {
+      "source": "behintzat",
+      "target": "al menos"
+    },
+    {
+      "source": "belar",
+      "target": "hierba"
+    },
+    {
+      "source": "belarri",
+      "target": "oreja"
+    },
+    {
+      "source": "beltz",
+      "target": "negro"
+    },
+    {
+      "source": "benetan",
+      "target": "de verdad"
+    },
+    {
+      "source": "berandu",
+      "target": "tarde (adv.)"
+    },
+    {
+      "source": "beraz",
+      "target": "por lo tanto"
+    },
+    {
+      "source": "berdin",
+      "target": "igual"
+    },
+    {
+      "source": "berehala",
+      "target": "enseguida"
+    },
+    {
+      "source": "berezi",
+      "target": "especial"
+    },
+    {
+      "source": "bero",
+      "target": "1 calor. 2 caliente"
+    },
+    {
+      "source": "berotu",
+      "target": "calentar"
+    },
+    {
+      "source": "berrehun",
+      "target": "doscientos"
+    },
+    {
+      "source": "berri",
+      "target": "1 nuevo. 2 noticia"
+    },
+    {
+      "source": "berriz",
+      "target": "1 otra vez. 2 en cambio"
+    },
+    {
+      "source": "berrogei",
+      "target": "cuarenta"
+    },
+    {
+      "source": "berrogeita hamar",
+      "target": "cincuenta"
+    },
+    {
+      "source": "bertso",
+      "target": "verso"
+    },
+    {
+      "source": "beso",
+      "target": "brazo"
+    },
+    {
+      "source": "beste",
+      "target": "otro"
+    },
+    {
+      "source": "betaurreko",
+      "target": "gafas"
+    },
+    {
+      "source": "bete",
+      "target": "llenar"
+    },
+    {
+      "source": "beti",
+      "target": "siempre"
+    },
+    {
+      "source": "bezala",
+      "target": "como (modal)"
+    },
+    {
+      "source": "bi",
+      "target": "dos"
+    },
+    {
+      "source": "bidaia",
+      "target": "viaje"
+    },
+    {
+      "source": "bide",
+      "target": "camino"
+    },
+    {
+      "source": "bigun",
+      "target": "blando"
+    },
+    {
+      "source": "bihar",
+      "target": "ma\u00f1ana (adv.)"
+    },
+    {
+      "source": "bihotz",
+      "target": "coraz\u00f3n"
+    },
+    {
+      "source": "bihurri",
+      "target": "travieso"
+    },
+    {
+      "source": "bikain",
+      "target": "excelente"
+    },
+    {
+      "source": "bikoitz",
+      "target": "doble"
+    },
+    {
+      "source": "bildu",
+      "target": "1 recoger. 2 reunir"
+    },
+    {
+      "source": "bilera",
+      "target": "reuni\u00f3n"
+    },
+    {
+      "source": "bitartean",
+      "target": "mientras (tanto)"
+    },
+    {
+      "source": "bizar",
+      "target": "barba"
+    },
+    {
+      "source": "bizi izan",
+      "target": "vivir"
+    },
+    {
+      "source": "bizitza",
+      "target": "vida"
+    },
+    {
+      "source": "bizkor",
+      "target": "r\u00e1pido, fuerte"
+    },
+    {
+      "source": "boligrafo",
+      "target": "bol\u00edgrafo"
+    },
+    {
+      "source": "bost",
+      "target": "cinco"
+    },
+    {
+      "source": "bota",
+      "target": "tirar"
+    },
+    {
+      "source": "botika",
+      "target": "farmacia"
+    },
+    {
+      "source": "botila",
+      "target": "botella"
+    },
+    {
+      "source": "bukatu",
+      "target": "acabar"
+    },
+    {
+      "source": "bulego",
+      "target": "oficina"
+    },
+    {
+      "source": "burdina",
+      "target": "hierro"
+    },
+    {
+      "source": "buru",
+      "target": "cabeza"
+    },
+    {
+      "source": "dantza",
+      "target": "baile"
+    },
+    {
+      "source": "dantzatu",
+      "target": "bailar"
+    },
+    {
+      "source": "dardar",
+      "target": "temblor"
+    },
+    {
+      "source": "dastatu",
+      "target": "probar"
+    },
+    {
+      "source": "dei",
+      "target": "llamada"
+    },
+    {
+      "source": "deitu",
+      "target": "llamar"
+    },
+    {
+      "source": "denbora",
+      "target": "tiempo"
+    },
+    {
+      "source": "denda",
+      "target": "tienda"
+    },
+    {
+      "source": "derrigorrezko",
+      "target": "obligatorio"
+    },
+    {
+      "source": "diti",
+      "target": "pecho"
+    },
+    {
+      "source": "ditiburu",
+      "target": "pez\u00f3n"
+    },
+    {
+      "source": "diru",
+      "target": "dinero"
+    },
+    {
+      "source": "dohain",
+      "target": "gratis"
+    },
+    {
+      "source": "duin",
+      "target": "digno"
+    },
+    {
+      "source": "dorre",
+      "target": "torre"
+    },
+    {
+      "source": "dortoka",
+      "target": "tortuga"
+    },
+    {
+      "source": "dotore",
+      "target": "elegante"
+    },
+    {
+      "source": "edan",
+      "target": "beber"
+    },
+    {
+      "source": "edari",
+      "target": "bebida"
+    },
+    {
+      "source": "eder",
+      "target": "bonito, bello"
+    },
+    {
+      "source": "ederki",
+      "target": "bien"
+    },
+    {
+      "source": "egarri",
+      "target": "sed"
+    },
+    {
+      "source": "egia",
+      "target": "verdad"
+    },
+    {
+      "source": "egin",
+      "target": "hacer"
+    },
+    {
+      "source": "egoki",
+      "target": "adecuado"
+    },
+    {
+      "source": "egon",
+      "target": "estar"
+    },
+    {
+      "source": "egun",
+      "target": "d\u00eda"
+    },
+    {
+      "source": "egunkari",
+      "target": "peri\u00f3dico"
+    },
+    {
+      "source": "egunon",
+      "target": "buenos d\u00edas"
+    },
+    {
+      "source": "egur",
+      "target": "le\u00f1a"
+    },
+    {
+      "source": "eguraldi",
+      "target": "tiempo metereol\u00f3gico"
+    },
+    {
+      "source": "egutegi",
+      "target": "calendario"
+    },
+    {
+      "source": "eguzki",
+      "target": "sol"
+    },
+    {
+      "source": "ekain",
+      "target": "junio"
+    },
+    {
+      "source": "ekarri",
+      "target": "traer"
+    },
+    {
+      "source": "ekialde",
+      "target": "este, oriente"
+    },
+    {
+      "source": "elur",
+      "target": "nieve"
+    },
+    {
+      "source": "eliz",
+      "target": "iglesia"
+    },
+    {
+      "source": "emakume",
+      "target": "mujer"
+    },
+    {
+      "source": "eman",
+      "target": "dar"
+    },
+    {
+      "source": "emazte",
+      "target": "esposa"
+    },
+    {
+      "source": "eme",
+      "target": "hembra"
+    },
+    {
+      "source": "erabili",
+      "target": "usar, utilizar"
+    },
+    {
+      "source": "erakutsi",
+      "target": "ense\u00f1ar"
+    },
+    {
+      "source": "eraman",
+      "target": "llevar"
+    },
+    {
+      "source": "erantzun",
+      "target": "1 responder. 2 respuesta"
+    },
+    {
+      "source": "erdi",
+      "target": "mitad, medio"
+    },
+    {
+      "source": "erloju",
+      "target": "reloj"
+    },
+    {
+      "source": "erori",
+      "target": "caer(se)"
+    },
+    {
+      "source": "erosi",
+      "target": "comprar"
+    },
+    {
+      "source": "erraz",
+      "target": "f\u00e1cil"
+    },
+    {
+      "source": "eseri",
+      "target": "sentarse"
+    },
+    {
+      "source": "esker",
+      "target": "gracias"
+    },
+    {
+      "source": "esku",
+      "target": "mano"
+    },
+    {
+      "source": "eskumutur",
+      "target": "mu\u00f1eca (de la mano)"
+    },
+    {
+      "source": "esnatu",
+      "target": "despertar(se)"
+    },
+    {
+      "source": "esne",
+      "target": "leche"
+    },
+    {
+      "source": "etorbide",
+      "target": "avenida"
+    },
+    {
+      "source": "etxe",
+      "target": "casa"
+    },
+    {
+      "source": "ez",
+      "target": "no (negaci\u00f3n)"
+    },
+    {
+      "source": "ezker",
+      "target": "izquierda"
+    },
+    {
+      "source": "eztul",
+      "target": "tos"
+    },
+    {
+      "source": "gabe",
+      "target": "sin (dirurik gabe, sin dinero)"
+    },
+    {
+      "source": "gabon",
+      "target": "1 buenas noches. 2 navidades (pl.)"
+    },
+    {
+      "source": "gainera",
+      "target": "adem\u00e1s"
+    },
+    {
+      "source": "galdera",
+      "target": "pregunta"
+    },
+    {
+      "source": "galdetu",
+      "target": "preguntar"
+    },
+    {
+      "source": "galdu",
+      "target": "perder"
+    },
+    {
+      "source": "garagardo",
+      "target": "cerveza"
+    },
+    {
+      "source": "garbi",
+      "target": "limpio"
+    },
+    {
+      "source": "garbitu",
+      "target": "limpiar"
+    },
+    {
+      "source": "gau",
+      "target": "noche"
+    },
+    {
+      "source": "gaur",
+      "target": "hoy"
+    },
+    {
+      "source": "gauza",
+      "target": "cosa"
+    },
+    {
+      "source": "gazta",
+      "target": "queso"
+    },
+    {
+      "source": "gazte",
+      "target": "joven"
+    },
+    {
+      "source": "gela",
+      "target": "habitaci\u00f3n"
+    },
+    {
+      "source": "geldirik",
+      "target": "quieto, parado"
+    },
+    {
+      "source": "gelditu",
+      "target": "pararse"
+    },
+    {
+      "source": "geltoki",
+      "target": "parada, estaci\u00f3n"
+    },
+    {
+      "source": "geratu",
+      "target": "queder(se)"
+    },
+    {
+      "source": "gero",
+      "target": "luego"
+    },
+    {
+      "source": "gertatu",
+      "target": "suceder"
+    },
+    {
+      "source": "gezur",
+      "target": "mentira"
+    },
+    {
+      "source": "giltza",
+      "target": "llave"
+    },
+    {
+      "source": "giro",
+      "target": "ambiente"
+    },
+    {
+      "source": "gizaki",
+      "target": "ser humano"
+    },
+    {
+      "source": "gizarte",
+      "target": "sociedad"
+    },
+    {
+      "source": "gizon",
+      "target": "hombre"
+    },
+    {
+      "source": "gogo",
+      "target": "1 ganas. 2 esp\u00edritu"
+    },
+    {
+      "source": "gogor",
+      "target": "duro"
+    },
+    {
+      "source": "goiz",
+      "target": "ma\u00f1ana; goizean, a la ma\u00f1ana"
+    },
+    {
+      "source": "gona",
+      "target": "falda"
+    },
+    {
+      "source": "gor",
+      "target": "sordo"
+    },
+    {
+      "source": "gorde",
+      "target": "guardar"
+    },
+    {
+      "source": "gorri",
+      "target": "rojo"
+    },
+    {
+      "source": "gorroto",
+      "target": "odio"
+    },
+    {
+      "source": "gosaldu",
+      "target": "desayunar"
+    },
+    {
+      "source": "gosari",
+      "target": "desayuno"
+    },
+    {
+      "source": "gutxi",
+      "target": "poco"
+    },
+    {
+      "source": "hagin",
+      "target": "muela"
+    },
+    {
+      "source": "hanka",
+      "target": "pierna"
+    },
+    {
+      "source": "hamar",
+      "target": "diez"
+    },
+    {
+      "source": "hartu",
+      "target": "coger"
+    },
+    {
+      "source": "haserre",
+      "target": "enfadado"
+    },
+    {
+      "source": "haserretu",
+      "target": "enfadarse"
+    },
+    {
+      "source": "haur",
+      "target": "ni\u00f1o \/ ni\u00f1a"
+    },
+    {
+      "source": "hegoalde",
+      "target": "sur"
+    },
+    {
+      "source": "helbide",
+      "target": "direcci\u00f3n"
+    },
+    {
+      "source": "helburu",
+      "target": "objetivo"
+    },
+    {
+      "source": "heldu",
+      "target": "1 llegar. 2 agarrar"
+    },
+    {
+      "source": "herri",
+      "target": "pueblo"
+    },
+    {
+      "source": "hezetasun",
+      "target": "humedad"
+    },
+    {
+      "source": "hezur",
+      "target": "hueso"
+    },
+    {
+      "source": "hil",
+      "target": "1 morir. 2 matar"
+    },
+    {
+      "source": "hilabete",
+      "target": "mes"
+    },
+    {
+      "source": "hiri",
+      "target": "ciudad"
+    },
+    {
+      "source": "hiriburu",
+      "target": "capital"
+    },
+    {
+      "source": "hiru",
+      "target": "tres"
+    },
+    {
+      "source": "hitz",
+      "target": "palabra"
+    },
+    {
+      "source": "hitz egin",
+      "target": "hablar"
+    },
+    {
+      "source": "hizkuntza",
+      "target": "lengua, idioma"
+    },
+    {
+      "source": "hiztegi",
+      "target": "diccionario"
+    },
+    {
+      "source": "hiztun",
+      "target": "hablante"
+    },
+    {
+      "source": "hodei",
+      "target": "nube"
+    },
+    {
+      "source": "hogei",
+      "target": "veinte"
+    },
+    {
+      "source": "hondartza",
+      "target": "playa"
+    },
+    {
+      "source": "hori",
+      "target": "amarillo"
+    },
+    {
+      "source": "horma",
+      "target": "pared"
+    },
+    {
+      "source": "hotz",
+      "target": "frio"
+    },
+    {
+      "source": "hoztu",
+      "target": "enfriar"
+    },
+    {
+      "source": "hurbil",
+      "target": "cerca"
+    },
+    {
+      "source": "hurbildu",
+      "target": "acercarse"
+    },
+    {
+      "source": "hustu",
+      "target": "vaciar"
+    },
+    {
+      "source": "hutsik",
+      "target": "vacio"
+    },
+    {
+      "source": "hutsune",
+      "target": "hueco"
+    },
+    {
+      "source": "ibili",
+      "target": "andar"
+    },
+    {
+      "source": "idatzi",
+      "target": "escribir"
+    },
+    {
+      "source": "idazle",
+      "target": "escritor"
+    },
+    {
+      "source": "igande",
+      "target": "domingo"
+    },
+    {
+      "source": "igo",
+      "target": "subir"
+    },
+    {
+      "source": "ikasgela",
+      "target": "aula"
+    },
+    {
+      "source": "ikasi",
+      "target": "1 aprender. 2 estudiar"
+    },
+    {
+      "source": "ikasle",
+      "target": "alumno"
+    },
+    {
+      "source": "ikastaro",
+      "target": "curso, cursillo"
+    },
+    {
+      "source": "ikastetxe",
+      "target": "colegio"
+    },
+    {
+      "source": "ikusi",
+      "target": "ver"
+    },
+    {
+      "source": "ile",
+      "target": "pelo"
+    },
+    {
+      "source": "indar",
+      "target": "fuerza"
+    },
+    {
+      "source": "iparralde",
+      "target": "norte"
+    },
+    {
+      "source": "ipini",
+      "target": "poner"
+    },
+    {
+      "source": "ipuin",
+      "target": "cuento"
+    },
+    {
+      "source": "irabazi",
+      "target": "ganar"
+    },
+    {
+      "source": "irail",
+      "target": "septiembre"
+    },
+    {
+      "source": "irakasle",
+      "target": "profesor"
+    },
+    {
+      "source": "irakatsi",
+      "target": "ense\u00f1ar"
+    },
+    {
+      "source": "irakurri",
+      "target": "leer"
+    },
+    {
+      "source": "ireki",
+      "target": "abrir"
+    },
+    {
+      "source": "irentsi",
+      "target": "tragar"
+    },
+    {
+      "source": "irla",
+      "target": "isla"
+    },
+    {
+      "source": "irrati",
+      "target": "radio"
+    },
+    {
+      "source": "irteera",
+      "target": "salida"
+    },
+    {
+      "source": "irudi",
+      "target": "imagen, dibujo"
+    },
+    {
+      "source": "iruditu",
+      "target": "1 parecer. 2 imarginar"
+    },
+    {
+      "source": "iturri",
+      "target": "fuente"
+    },
+    {
+      "source": "itxaron",
+      "target": "esperar"
+    },
+    {
+      "source": "itxaso",
+      "target": "mar"
+    },
+    {
+      "source": "itxi",
+      "target": "cerrar"
+    },
+    {
+      "source": "itzali",
+      "target": "apagar"
+    },
+    {
+      "source": "ixildu",
+      "target": "callarse"
+    },
+    {
+      "source": "ixilik",
+      "target": "en silencio"
+    },
+    {
+      "source": "izan",
+      "target": "ser"
+    },
+    {
+      "source": "izar",
+      "target": "estrella"
+    },
+    {
+      "source": "izeko",
+      "target": "t\u00eda"
+    },
+    {
+      "source": "izotz",
+      "target": "hielo"
+    },
+    {
+      "source": "jabe",
+      "target": "due\u00f1o, amo"
+    },
+    {
+      "source": "jai",
+      "target": "fiesta"
+    },
+    {
+      "source": "jaiki",
+      "target": "levantarse"
+    },
+    {
+      "source": "jainko",
+      "target": "dios"
+    },
+    {
+      "source": "jaio",
+      "target": "nacer"
+    },
+    {
+      "source": "jaitsi",
+      "target": "bajar"
+    },
+    {
+      "source": "jakin",
+      "target": "saber"
+    },
+    {
+      "source": "jakin-min",
+      "target": "curiosidad"
+    },
+    {
+      "source": "jaka",
+      "target": "chaqueta"
+    },
+    {
+      "source": "jaki",
+      "target": "alimento"
+    },
+    {
+      "source": "jan",
+      "target": "comer"
+    },
+    {
+      "source": "janari",
+      "target": "comida"
+    },
+    {
+      "source": "jantzi",
+      "target": "vestir(se)"
+    },
+    {
+      "source": "jarraitu",
+      "target": "seguir"
+    },
+    {
+      "source": "jarrera",
+      "target": "1 postura. 2 actitud"
+    },
+    {
+      "source": "jarri",
+      "target": "1 poner. 2 sentarse"
+    },
+    {
+      "source": "jasan",
+      "target": "soportar, aguantar"
+    },
+    {
+      "source": "jaso",
+      "target": "1 levantar. 2 recibir"
+    },
+    {
+      "source": "jatetxe",
+      "target": "restaurante"
+    },
+    {
+      "source": "jaun",
+      "target": "due\u00f1o, se\u00f1or"
+    },
+    {
+      "source": "jende",
+      "target": "gente"
+    },
+    {
+      "source": "jertse",
+      "target": "jersei"
+    },
+    {
+      "source": "jezarri",
+      "target": "sentarse"
+    },
+    {
+      "source": "jo",
+      "target": "1 golpear. 2 tocar"
+    },
+    {
+      "source": "joan",
+      "target": "ir"
+    },
+    {
+      "source": "jokatu",
+      "target": "1 jugar. 2 comportarse"
+    },
+    {
+      "source": "joku",
+      "target": "juego"
+    },
+    {
+      "source": "jolastu",
+      "target": "jugar"
+    },
+    {
+      "source": "josi",
+      "target": "coser"
+    },
+    {
+      "source": "jostailu",
+      "target": "juguete"
+    },
+    {
+      "source": "jostun",
+      "target": "sastre, costurero"
+    },
+    {
+      "source": "kai",
+      "target": "puerto"
+    },
+    {
+      "source": "kaiola",
+      "target": "jaula"
+    },
+    {
+      "source": "kaixo",
+      "target": "hola (saludo)"
+    },
+    {
+      "source": "kale",
+      "target": "calle"
+    },
+    {
+      "source": "kalte",
+      "target": "1 da\u00f1o. 2 perjuicio"
+    },
+    {
+      "source": "kaltegarri",
+      "target": "perjudicial"
+    },
+    {
+      "source": "kanpo",
+      "target": "exterior"
+    },
+    {
+      "source": "kanporatu",
+      "target": "extraer, expulsar"
+    },
+    {
+      "source": "komun",
+      "target": "aseo, retrete"
+    },
+    {
+      "source": "kutxa",
+      "target": "caja"
+    },
+    {
+      "source": "labur",
+      "target": "corto"
+    },
+    {
+      "source": "lagun",
+      "target": "1 amigo. 2 persona"
+    },
+    {
+      "source": "lagundu",
+      "target": "ayudar"
+    },
+    {
+      "source": "laguntza",
+      "target": "ayuda"
+    },
+    {
+      "source": "lan",
+      "target": "trabajo"
+    },
+    {
+      "source": "landare",
+      "target": "planta, vegetal"
+    },
+    {
+      "source": "lan egin",
+      "target": "trabajar"
+    },
+    {
+      "source": "langile",
+      "target": "trabajador"
+    },
+    {
+      "source": "laino",
+      "target": "niebla"
+    },
+    {
+      "source": "larunbat",
+      "target": "s\u00e1bado"
+    },
+    {
+      "source": "larru",
+      "target": "piel"
+    },
+    {
+      "source": "laster",
+      "target": "pronto"
+    },
+    {
+      "source": "lau",
+      "target": "cuatro"
+    },
+    {
+      "source": "laztan",
+      "target": "1 caricia. 2 amado, querido"
+    },
+    {
+      "source": "laztandu",
+      "target": "acariar"
+    },
+    {
+      "source": "lege",
+      "target": "ley"
+    },
+    {
+      "source": "lehen",
+      "target": "primero"
+    },
+    {
+      "source": "lehenbailehen",
+      "target": "cuanto antes"
+    },
+    {
+      "source": "lehia",
+      "target": "competencia"
+    },
+    {
+      "source": "leku",
+      "target": "sitio, lugar"
+    },
+    {
+      "source": "liburu",
+      "target": "libro"
+    },
+    {
+      "source": "liburudenda",
+      "target": "librer\u00eda"
+    },
+    {
+      "source": "liburutegi",
+      "target": "biblioteca"
+    },
+    {
+      "source": "lo egin",
+      "target": "dormir"
+    },
+    {
+      "source": "luze",
+      "target": "largo"
+    },
+    {
+      "source": "mahai",
+      "target": "mesa"
+    },
+    {
+      "source": "maiatz",
+      "target": "mayo"
+    },
+    {
+      "source": "maila",
+      "target": "nivel, curso"
+    },
+    {
+      "source": "maite",
+      "target": "amar, querer"
+    },
+    {
+      "source": "makila",
+      "target": "1 palo. 2 bast\u00f3n"
+    },
+    {
+      "source": "makina",
+      "target": "m\u00e1quina"
+    },
+    {
+      "source": "malko",
+      "target": "l\u00e1grima"
+    },
+    {
+      "source": "margo",
+      "target": "pintura"
+    },
+    {
+      "source": "margotu",
+      "target": "pintar"
+    },
+    {
+      "source": "marinel",
+      "target": "marinero"
+    },
+    {
+      "source": "marmar",
+      "target": "murumullo, murmuraci\u00f3n"
+    },
+    {
+      "source": "marrazki",
+      "target": "dibujo"
+    },
+    {
+      "source": "martxo",
+      "target": "marzo"
+    },
+    {
+      "source": "mehe",
+      "target": "delgado"
+    },
+    {
+      "source": "mende",
+      "target": "siglo"
+    },
+    {
+      "source": "mendebalde",
+      "target": "oeste"
+    },
+    {
+      "source": "mendi",
+      "target": "monte"
+    },
+    {
+      "source": "merezi",
+      "target": "merecer"
+    },
+    {
+      "source": "merke",
+      "target": "barato"
+    },
+    {
+      "source": "mesede",
+      "target": "favor"
+    },
+    {
+      "source": "mesedez",
+      "target": "por favor"
+    },
+    {
+      "source": "meza",
+      "target": "misa"
+    },
+    {
+      "source": "mihi",
+      "target": "lengua"
+    },
+    {
+      "source": "mila",
+      "target": "mil"
+    },
+    {
+      "source": "min",
+      "target": "dolor"
+    },
+    {
+      "source": "min egin",
+      "target": "hacer da\u00f1o"
+    },
+    {
+      "source": "min hartu",
+      "target": "hacerse da\u00f1o"
+    },
+    {
+      "source": "minutu",
+      "target": "minuto"
+    },
+    {
+      "source": "mintzatu",
+      "target": "hablar"
+    },
+    {
+      "source": "mirari",
+      "target": "milagro"
+    },
+    {
+      "source": "moldatu",
+      "target": "arreglar, apa\u00f1ar"
+    },
+    {
+      "source": "mota",
+      "target": "clase, tipo"
+    },
+    {
+      "source": "motel",
+      "target": "lento, flojo"
+    },
+    {
+      "source": "motz",
+      "target": "corto"
+    },
+    {
+      "source": "mozkor",
+      "target": "1 borracho. 2 borrachera"
+    },
+    {
+      "source": "mozkorti",
+      "target": "borracho"
+    },
+    {
+      "source": "mozkortu",
+      "target": "emborrachar(se)"
+    },
+    {
+      "source": "moztu",
+      "target": "cortar"
+    },
+    {
+      "source": "muga",
+      "target": "l\u00edmite, frontera"
+    },
+    {
+      "source": "mugitu",
+      "target": "move"
+    },
+    {
+      "source": "mukizapi",
+      "target": "pa\u00f1uelo"
+    },
+    {
+      "source": "mundu",
+      "target": "mundo"
+    },
+    {
+      "source": "musika",
+      "target": "m\u00fasica"
+    },
+    {
+      "source": "musu",
+      "target": "beso"
+    },
+    {
+      "source": "musu eman",
+      "target": "besar"
+    },
+    {
+      "source": "mutil",
+      "target": "chico, muchacho"
+    },
+    {
+      "source": "nabari",
+      "target": "patente, manifiesto"
+    },
+    {
+      "source": "nabaritu",
+      "target": "percibir, notar"
+    },
+    {
+      "source": "nagusi",
+      "target": "1 principal, mayor. 2 jefe, amo"
+    },
+    {
+      "source": "nahasi",
+      "target": "1 mezclar, -ado. 2 revolver, revuelto. 3 confundir"
+    },
+    {
+      "source": "nahastu",
+      "target": "vid. nahasi"
+    },
+    {
+      "source": "nahi",
+      "target": "1 querer. 2 deseo"
+    },
+    {
+      "source": "nahiago",
+      "target": "preferir"
+    },
+    {
+      "source": "nahiko",
+      "target": "suficiente, bastante"
+    },
+    {
+      "source": "narras",
+      "target": "desali\u00f1ado, sucio"
+    },
+    {
+      "source": "nazka",
+      "target": "asco, repugnancia"
+    },
+    {
+      "source": "nazkagarri",
+      "target": "asqueroso, repugnante"
+    },
+    {
+      "source": "nazkatu",
+      "target": "asquearse, hartarse"
+    },
+    {
+      "source": "neba",
+      "target": "hermano (de una mujer)"
+    },
+    {
+      "source": "negar",
+      "target": "lloro, llanto"
+    },
+    {
+      "source": "negar egin",
+      "target": "llorar"
+    },
+    {
+      "source": "negu",
+      "target": "invierno"
+    },
+    {
+      "source": "nekatu",
+      "target": "cansar(se)"
+    },
+    {
+      "source": "nekazari",
+      "target": "labrador, campesino"
+    },
+    {
+      "source": "neska",
+      "target": "chica"
+    },
+    {
+      "source": "neurri",
+      "target": "medida"
+    },
+    {
+      "source": "neurtu",
+      "target": "medir"
+    },
+    {
+      "source": "noiz",
+      "target": "\u00bfcu\u00e1ndo?"
+    },
+    {
+      "source": "noizko",
+      "target": "\u00bfde cu\u00e1ndo?, \u00bfpara cu\u00e1ndo?"
+    },
+    {
+      "source": "noiztik",
+      "target": "\u00bfdesde cu\u00e1ndo?"
+    },
+    {
+      "source": "nola",
+      "target": "\u00bfc\u00f3mo? (de qu\u00e9 modo)"
+    },
+    {
+      "source": "nola edo hala",
+      "target": "de una u otra forma"
+    },
+    {
+      "source": "nolako",
+      "target": "\u00bfc\u00f3mo? (cualidad"
+    },
+    {
+      "source": "non",
+      "target": "\u00bfd\u00f3nde?"
+    },
+    {
+      "source": "nongo",
+      "target": "\u00bfde d\u00f3nde? (sin movimiento)"
+    },
+    {
+      "source": "nondik",
+      "target": "\u00bfde (desde, por) d\u00f3nde?"
+    },
+    {
+      "source": "nora",
+      "target": "\u00bfa d\u00f3nde?"
+    },
+    {
+      "source": "noraino",
+      "target": "\u00bfhasta d\u00f3nde?"
+    },
+    {
+      "source": "norantz",
+      "target": "\u00bfhacia d\u00f3nde?"
+    },
+    {
+      "source": "nor",
+      "target": "\u00bfqui\u00e9n?"
+    },
+    {
+      "source": "nori",
+      "target": "\u00bfa qui\u00e9n? (indirecto)"
+    },
+    {
+      "source": "nork",
+      "target": "\u00bfqui\u00e9n? (sujeto de v. trans.)"
+    },
+    {
+      "source": "noren",
+      "target": "\u00bfde qui\u00e9n?"
+    },
+    {
+      "source": "norekin",
+      "target": "\u00bfcon qui\u00e9n?"
+    },
+    {
+      "source": "norentzat",
+      "target": "\u00bfpara qui\u00e9n?"
+    },
+    {
+      "source": "norengana",
+      "target": "\u00bfa donde qui\u00e9n?"
+    },
+    {
+      "source": "norbait",
+      "target": "\u00bfalguien?"
+    },
+    {
+      "source": "noski",
+      "target": "claro, sin duda"
+    },
+    {
+      "source": "odol",
+      "target": "sangre"
+    },
+    {
+      "source": "ogi",
+      "target": "pan"
+    },
+    {
+      "source": "ogitarteko",
+      "target": "bocadillo"
+    },
+    {
+      "source": "ohar",
+      "target": "observaci\u00f3n, advertencia"
+    },
+    {
+      "source": "ohe",
+      "target": "cama"
+    },
+    {
+      "source": "oheratu",
+      "target": "ir a la cama"
+    },
+    {
+      "source": "ohitura",
+      "target": "costumbre"
+    },
+    {
+      "source": "oihu",
+      "target": "grito"
+    },
+    {
+      "source": "oihuka",
+      "target": "gritando"
+    },
+    {
+      "source": "oilar",
+      "target": "gallo"
+    },
+    {
+      "source": "oilasko",
+      "target": "pollo"
+    },
+    {
+      "source": "oilo",
+      "target": "gallina"
+    },
+    {
+      "source": "oin",
+      "target": "pie"
+    },
+    {
+      "source": "oinez",
+      "target": "a pie"
+    },
+    {
+      "source": "oker",
+      "target": "torcido, mal"
+    },
+    {
+      "source": "okertu",
+      "target": "torcer"
+    },
+    {
+      "source": "olatu",
+      "target": "ola"
+    },
+    {
+      "source": "olio",
+      "target": "aceite"
+    },
+    {
+      "source": "on",
+      "target": "bueno"
+    },
+    {
+      "source": "onartu",
+      "target": "aceptar, admitir"
+    },
+    {
+      "source": "ondo",
+      "target": "bien"
+    },
+    {
+      "source": "ondoan",
+      "target": "al lado, junto a"
+    },
+    {
+      "source": "ondoren",
+      "target": "despu\u00e9s, a continuaci\u00f3n"
+    },
+    {
+      "source": "ongi",
+      "target": "bien"
+    },
+    {
+      "source": "ontzi",
+      "target": "recipiente, vasija"
+    },
+    {
+      "source": "opari",
+      "target": "regalo"
+    },
+    {
+      "source": "opor",
+      "target": "vacaci\u00f3n"
+    },
+    {
+      "source": "oporretan",
+      "target": "de vacaciones"
+    },
+    {
+      "source": "orain",
+      "target": "ahora"
+    },
+    {
+      "source": "oraindik",
+      "target": "todav\u00eda"
+    },
+    {
+      "source": "oraintxe",
+      "target": "ahora mismo"
+    },
+    {
+      "source": "ordaindu",
+      "target": "pagar"
+    },
+    {
+      "source": "ordea",
+      "target": "en cambio"
+    },
+    {
+      "source": "ordez",
+      "target": "en vez de"
+    },
+    {
+      "source": "ordu",
+      "target": "hora"
+    },
+    {
+      "source": "orduan",
+      "target": "entonces"
+    },
+    {
+      "source": "oroitu",
+      "target": "acordarse, recordar"
+    },
+    {
+      "source": "orratz",
+      "target": "aguja"
+    },
+    {
+      "source": "orrazi",
+      "target": "peine"
+    },
+    {
+      "source": "orraztu",
+      "target": "peinar"
+    },
+    {
+      "source": "orri",
+      "target": "hoja"
+    },
+    {
+      "source": "orrialde",
+      "target": "p\u00e1gina"
+    },
+    {
+      "source": "osaba",
+      "target": "t\u00edo"
+    },
+    {
+      "source": "osasun",
+      "target": "salud"
+    },
+    {
+      "source": "osatu",
+      "target": "1 completar. 2 sanar, curar(se)"
+    },
+    {
+      "source": "oso",
+      "target": "1 muy oso polita, \"muy bonito, -a\". 2 entero"
+    },
+    {
+      "source": "ospatu",
+      "target": "celebrar"
+    },
+    {
+      "source": "ospetsu",
+      "target": "famoso"
+    },
+    {
+      "source": "ospitale",
+      "target": "hospital"
+    },
+    {
+      "source": "ostegun",
+      "target": "jueves"
+    },
+    {
+      "source": "ostiral",
+      "target": "viernes"
+    },
+    {
+      "source": "otsail",
+      "target": "febrero"
+    },
+    {
+      "source": "otso",
+      "target": "lobo"
+    },
+    {
+      "source": "paper",
+      "target": "papel"
+    },
+    {
+      "source": "pareta",
+      "target": "pared"
+    },
+    {
+      "source": "praka",
+      "target": "pantalon"
+    },
+    {
+      "source": "pasatu",
+      "target": "pasar"
+    },
+    {
+      "source": "patxada",
+      "target": "sosiego, tranquilidad"
+    },
+    {
+      "source": "pentsatu",
+      "target": "pensar"
+    },
+    {
+      "source": "perpaus",
+      "target": "frase, oraci\u00f3n"
+    },
+    {
+      "source": "perretxiko",
+      "target": "seta, hongo"
+    },
+    {
+      "source": "pertsona",
+      "target": "persona"
+    },
+    {
+      "source": "petral",
+      "target": "rebelde, atravesado"
+    },
+    {
+      "source": "pilota",
+      "target": "pelota"
+    },
+    {
+      "source": "pilotaleku",
+      "target": "front\u00f3n"
+    },
+    {
+      "source": "pilotari",
+      "target": "pelotari"
+    },
+    {
+      "source": "pisu",
+      "target": "peso"
+    },
+    {
+      "source": "pitin bat",
+      "target": "un poquito"
+    },
+    {
+      "source": "pitxer",
+      "target": "jarra"
+    },
+    {
+      "source": "pixka bat",
+      "target": "un poco"
+    },
+    {
+      "source": "piztu",
+      "target": "encender, encendido"
+    },
+    {
+      "source": "planta",
+      "target": "actitud, facha"
+    },
+    {
+      "source": "plater",
+      "target": "plato"
+    },
+    {
+      "source": "plaza",
+      "target": "plaza"
+    },
+    {
+      "source": "poliki",
+      "target": "despacio"
+    },
+    {
+      "source": "polit",
+      "target": "bonito"
+    },
+    {
+      "source": "poltsiko",
+      "target": "bolsillo"
+    },
+    {
+      "source": "porru",
+      "target": "puerro"
+    },
+    {
+      "source": "poxpolu",
+      "target": "cerilla, f\u00f3sforo"
+    },
+    {
+      "source": "poz",
+      "target": "alegr\u00eda"
+    },
+    {
+      "source": "pozik",
+      "target": "contento"
+    },
+    {
+      "source": "presa",
+      "target": "prisa"
+    },
+    {
+      "source": "presaka",
+      "target": "de prisa"
+    },
+    {
+      "source": "prestatu",
+      "target": "preparar"
+    },
+    {
+      "source": "puska",
+      "target": "pedazo, trozo"
+    },
+    {
+      "source": "puskatu",
+      "target": "romper"
+    },
+    {
+      "source": "putzu",
+      "target": "pozo"
+    },
+    {
+      "source": "sabel",
+      "target": "vientre"
+    },
+    {
+      "source": "sagar",
+      "target": "manzana"
+    },
+    {
+      "source": "sagardo",
+      "target": "sidra"
+    },
+    {
+      "source": "sagu",
+      "target": "rat\u00f3n"
+    },
+    {
+      "source": "saiatu",
+      "target": "intentar, esforzarse"
+    },
+    {
+      "source": "saio",
+      "target": "1 prueba, ensayo. 2 actuaci\u00f3n, funci\u00f3n"
+    },
+    {
+      "source": "sakatu",
+      "target": "pulsar, presionar"
+    },
+    {
+      "source": "sakon",
+      "target": "profundo"
+    },
+    {
+      "source": "salda",
+      "target": "caldo"
+    },
+    {
+      "source": "saldu",
+      "target": "vender"
+    },
+    {
+      "source": "salgai",
+      "target": "en venta"
+    },
+    {
+      "source": "salto",
+      "target": "salto"
+    },
+    {
+      "source": "saltoka",
+      "target": "a saltos"
+    },
+    {
+      "source": "samar",
+      "target": "bastante"
+    },
+    {
+      "source": "samur",
+      "target": "tierno"
+    },
+    {
+      "source": "sari",
+      "target": "premio"
+    },
+    {
+      "source": "sarrera",
+      "target": "1 entrada. 2 introducci\u00f3n"
+    },
+    {
+      "source": "sartu",
+      "target": "1 entrar. 2 meter"
+    },
+    {
+      "source": "seguru",
+      "target": "seguro"
+    },
+    {
+      "source": "seguru aski",
+      "target": "seguramente"
+    },
+    {
+      "source": "sei",
+      "target": "seis"
+    },
+    {
+      "source": "sekula ez",
+      "target": "nunca"
+    },
+    {
+      "source": "seme",
+      "target": "hijo"
+    },
+    {
+      "source": "seme-alabak",
+      "target": "hijo(s) e hija(s)"
+    },
+    {
+      "source": "senar",
+      "target": "marido"
+    },
+    {
+      "source": "sendagile",
+      "target": "m\u00e9dico"
+    },
+    {
+      "source": "sendatu",
+      "target": "curar"
+    },
+    {
+      "source": "senide",
+      "target": "familar, pariente"
+    },
+    {
+      "source": "sinetsi",
+      "target": "creer"
+    },
+    {
+      "source": "soineko",
+      "target": "vestido"
+    },
+    {
+      "source": "soka",
+      "target": "cuerda"
+    },
+    {
+      "source": "sortu",
+      "target": "1 nacer. 2 crear"
+    },
+    {
+      "source": "sorgin",
+      "target": "bruja"
+    },
+    {
+      "source": "su",
+      "target": "fuego"
+    },
+    {
+      "source": "sudur",
+      "target": "nariz"
+    },
+    {
+      "source": "sukalde",
+      "target": "cocina"
+    },
+    {
+      "source": "talde",
+      "target": "grupo"
+    },
+    {
+      "source": "tanta",
+      "target": "gota"
+    },
+    {
+      "source": "teilatu",
+      "target": "tejado"
+    },
+    {
+      "source": "telebista",
+      "target": "televisi\u00f3n"
+    },
+    {
+      "source": "telefono",
+      "target": "tel\u00e9fono"
+    },
+    {
+      "source": "toki",
+      "target": "sitio, lugar"
+    },
+    {
+      "source": "topo egin",
+      "target": "encontrarse con alguien"
+    },
+    {
+      "source": "trebe",
+      "target": "h\u00e1bil"
+    },
+    {
+      "source": "tren",
+      "target": "tren"
+    },
+    {
+      "source": "trenbide",
+      "target": "ferrocarril"
+    },
+    {
+      "source": "tresna",
+      "target": "aparato"
+    },
+    {
+      "source": "triste",
+      "target": "triste"
+    },
+    {
+      "source": "txakur",
+      "target": "perro"
+    },
+    {
+      "source": "txalo",
+      "target": "aplauso"
+    },
+    {
+      "source": "txanda",
+      "target": "turno"
+    },
+    {
+      "source": "txanpon",
+      "target": "moneda"
+    },
+    {
+      "source": "txapel",
+      "target": "boina"
+    },
+    {
+      "source": "txapeldun",
+      "target": "campe\u00f3n"
+    },
+    {
+      "source": "txar",
+      "target": "malo"
+    },
+    {
+      "source": "txerri",
+      "target": "cerdo"
+    },
+    {
+      "source": "txertatu",
+      "target": "injertar"
+    },
+    {
+      "source": "txarto",
+      "target": "mal (adv.)"
+    },
+    {
+      "source": "txiki",
+      "target": "peque\u00f1o"
+    },
+    {
+      "source": "tximinia",
+      "target": "chimenea"
+    },
+    {
+      "source": "txistu",
+      "target": "1 silbido. 2 instrumento musical"
+    },
+    {
+      "source": "txoko",
+      "target": "rinc\u00f3n"
+    },
+    {
+      "source": "txori",
+      "target": "p\u00e1jaro"
+    },
+    {
+      "source": "txukun",
+      "target": "arreglado, aseado"
+    },
+    {
+      "source": "txunditu",
+      "target": "asombrar(se)"
+    },
+    {
+      "source": "uda",
+      "target": "verano"
+    },
+    {
+      "source": "udaberri",
+      "target": "primavera"
+    },
+    {
+      "source": "udal",
+      "target": "ayuntamiento"
+    },
+    {
+      "source": "udaletxe casa consistorial",
+      "target": ""
+    },
+    {
+      "source": "udazken",
+      "target": "oto\u00f1o"
+    },
+    {
+      "source": "ugari",
+      "target": "abundante"
+    },
+    {
+      "source": "ukatu",
+      "target": "negar"
+    },
+    {
+      "source": "ukitu",
+      "target": "tocar"
+    },
+    {
+      "source": "ulertu",
+      "target": "comprender, entender"
+    },
+    {
+      "source": "ume",
+      "target": "ni\u00f1o \/ ni\u00f1a"
+    },
+    {
+      "source": "unibertsitate",
+      "target": "universidad"
+    },
+    {
+      "source": "une",
+      "target": "momento"
+    },
+    {
+      "source": "ur",
+      "target": "agua"
+    },
+    {
+      "source": "urdin",
+      "target": "azul"
+    },
+    {
+      "source": "urduri",
+      "target": "nervioso"
+    },
+    {
+      "source": "urratu",
+      "target": "desgarrar"
+    },
+    {
+      "source": "urri",
+      "target": "1 octubre. 2 escaso"
+    },
+    {
+      "source": "urrun",
+      "target": "lejos"
+    },
+    {
+      "source": "urruti",
+      "target": "lejos"
+    },
+    {
+      "source": "urtarril",
+      "target": "enero"
+    },
+    {
+      "source": "urte",
+      "target": "a\u00f1o"
+    },
+    {
+      "source": "urtebetetze",
+      "target": "cumplea\u00f1os"
+    },
+    {
+      "source": "usain",
+      "target": "olor"
+    },
+    {
+      "source": "usaindu",
+      "target": "oler"
+    },
+    {
+      "source": "uste",
+      "target": "1 opinar. 2 opini\u00f3n"
+    },
+    {
+      "source": "utzi",
+      "target": "dejar"
+    },
+    {
+      "source": "uztail",
+      "target": "julio"
+    },
+    {
+      "source": "xaboi",
+      "target": "jab\u00f3n"
+    },
+    {
+      "source": "xahutu",
+      "target": "despilfarrar"
+    },
+    {
+      "source": "xede",
+      "target": "objetivo, meta"
+    },
+    {
+      "source": "xehe",
+      "target": "menudo"
+    },
+    {
+      "source": "xurgatu",
+      "target": "chupar, succionar"
+    },
+    {
+      "source": "zabal",
+      "target": "ancho"
+    },
+    {
+      "source": "zabaldu",
+      "target": "1 abrir. 2 extender"
+    },
+    {
+      "source": "zabalik",
+      "target": "abierto"
+    },
+    {
+      "source": "zabor",
+      "target": "basura"
+    },
+    {
+      "source": "zahar",
+      "target": "viejo"
+    },
+    {
+      "source": "zail",
+      "target": "dif\u00edcil"
+    },
+    {
+      "source": "zain egon",
+      "target": "estar esperando"
+    },
+    {
+      "source": "zaindu",
+      "target": "cuidar"
+    },
+    {
+      "source": "zakar",
+      "target": "rudo, tosco"
+    },
+    {
+      "source": "zakil",
+      "target": "pene"
+    },
+    {
+      "source": "zaldi",
+      "target": "caballo"
+    },
+    {
+      "source": "zale",
+      "target": "aficionado"
+    },
+    {
+      "source": "zaletasun",
+      "target": "afici\u00f3n"
+    },
+    {
+      "source": "zama",
+      "target": "carga"
+    },
+    {
+      "source": "zapaldu",
+      "target": "aplastar, pisar"
+    },
+    {
+      "source": "zapata",
+      "target": "zapato"
+    },
+    {
+      "source": "zapi",
+      "target": "pa\u00f1uelo"
+    },
+    {
+      "source": "zati",
+      "target": "trozo"
+    },
+    {
+      "source": "zaunka",
+      "target": "ladrido"
+    },
+    {
+      "source": "zauri",
+      "target": "herida"
+    },
+    {
+      "source": "zazpi",
+      "target": "siete"
+    },
+    {
+      "source": "zeharo",
+      "target": "totalmente, completamente"
+    },
+    {
+      "source": "zehatz",
+      "target": "preciso, detallado"
+    },
+    {
+      "source": "zein",
+      "target": "cu\u00e1l, qui\u00e9n"
+    },
+    {
+      "source": "zelai",
+      "target": "prado"
+    },
+    {
+      "source": "zenbaki",
+      "target": "n\u00famero"
+    },
+    {
+      "source": "zenbait",
+      "target": "algunos, varios"
+    },
+    {
+      "source": "zenbat",
+      "target": "\u00bfcu\u00e1nto(s)?"
+    },
+    {
+      "source": "zer",
+      "target": "\u00bfqu\u00e9?"
+    },
+    {
+      "source": "zerbait",
+      "target": "algo"
+    },
+    {
+      "source": "zerbitzari",
+      "target": "servidor"
+    },
+    {
+      "source": "zerbitzu",
+      "target": "servicio"
+    },
+    {
+      "source": "zerga",
+      "target": "impuesto"
+    },
+    {
+      "source": "zergatik",
+      "target": "\u00bfpor qu\u00e9?"
+    },
+    {
+      "source": "zer moduz",
+      "target": "\u00bfqu\u00e9 tal?"
+    },
+    {
+      "source": "zerrenda",
+      "target": "lista"
+    },
+    {
+      "source": "zertan",
+      "target": "\u00bfen qu\u00e9?"
+    },
+    {
+      "source": "zertara",
+      "target": "\u00bfa qu\u00e9?"
+    },
+    {
+      "source": "zertarako",
+      "target": "\u00bfpara qu\u00e9?"
+    },
+    {
+      "source": "zertaz",
+      "target": "\u00bfa cerca de qu\u00e9?"
+    },
+    {
+      "source": "zeru",
+      "target": "cielo"
+    },
+    {
+      "source": "zezen",
+      "target": "toro"
+    },
+    {
+      "source": "zigarro",
+      "target": "cigarro"
+    },
+    {
+      "source": "zigor",
+      "target": "castigo"
+    },
+    {
+      "source": "zigortu",
+      "target": "castigar"
+    },
+    {
+      "source": "zikin",
+      "target": "sucio"
+    },
+    {
+      "source": "zikindu",
+      "target": "ensuciar"
+    },
+    {
+      "source": "zinema",
+      "target": "cine"
+    },
+    {
+      "source": "zintzilik",
+      "target": "colgando"
+    },
+    {
+      "source": "zintzo",
+      "target": "formal, honrado"
+    },
+    {
+      "source": "zirriborro",
+      "target": "1 garabato. 2 borrador"
+    },
+    {
+      "source": "zopa",
+      "target": "sopa"
+    },
+    {
+      "source": "zoragarri",
+      "target": "encantador, maravilloso"
+    },
+    {
+      "source": "zoratu",
+      "target": "enloquecer"
+    },
+    {
+      "source": "zorion",
+      "target": "1 felicidad. 2 enhorabuena (en plural)"
+    },
+    {
+      "source": "zorionez",
+      "target": "afortunadamente"
+    },
+    {
+      "source": "zoritxar",
+      "target": "desgracia"
+    },
+    {
+      "source": "zoro",
+      "target": "loco"
+    },
+    {
+      "source": "zorrotz",
+      "target": "1 afilado, agudo. 2 perspicaz. 3 exigente"
+    },
+    {
+      "source": "zorroztu",
+      "target": "afilar"
+    },
+    {
+      "source": "zortzi",
+      "target": "ocho"
+    },
+    {
+      "source": "zubi",
+      "target": "puente"
+    },
+    {
+      "source": "zuhaitz",
+      "target": "\u00e1rbol"
+    },
+    {
+      "source": "zulo",
+      "target": "agujero"
+    },
+    {
+      "source": "zur",
+      "target": "madera"
+    },
+    {
+      "source": "zuri",
+      "target": "blanco"
+    },
+    {
+      "source": "zuritu",
+      "target": "1 blanquear. 2 pelar, mondar"
+    },
+    {
+      "source": "zutik",
+      "target": "de pie"
+    },
+    {
+      "source": "zuzen",
+      "target": "derecho"
+    },
+    {
+      "source": "zuzendari",
+      "target": "director"
+    }
+  ]
+}
