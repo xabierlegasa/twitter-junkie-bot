@@ -22,14 +22,10 @@ try {
     $twitterFeed = new TwitterFeedBasqueDictionary($randomTranslation);
     $twitterBot = new TwitterBot($twitterClient, $twitterFeed);
     $twitterBot->tweetRandomMessage();
-
-
+    
 } catch (\Exception $e) {
     $logger->addError('Error. Exception: ' . $e->getMessage());
-    echo 'Error posting new status. Check the log for more details.';
     exit;
 }
 
-
 $logger->addInfo('Posted new status. ' . date('Y-m-d H:i:s'));
-echo 'OK. New status posted.';
