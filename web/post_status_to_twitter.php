@@ -11,7 +11,7 @@ use Monolog\Handler\StreamHandler;
 require "../vendor/autoload.php";
 
 try {
-    date_default_timezone_set('Europe/Paris');
+    date_default_timezone_set('Europe/Madrid');
 
     $logger = new Logger('Twitter Junkie Bot');
     $logger->pushHandler(new StreamHandler('../logs/twitter-junkie-bot.log', Logger::INFO));
