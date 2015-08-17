@@ -29,8 +29,8 @@ class TwitterFeedBasqueDictionaryTest extends \PHPUnit_Framework_TestCase
     public function testGetStatusMessageIsCalledReturnRandomTranslationCorrectMethod()
     {
         $this->randomTranslationMock->getRandomTranslation(Argument::any())
-            ->shouldBeCalled()
-            ->willReturn('kaixo: hola');
+                                    ->shouldBeCalled()
+                                    ->willReturn('kaixo: hola');
 
         $statusMessage = $this->sut->getStatusMessage();
         $this->assertEquals('kaixo: hola', $statusMessage);

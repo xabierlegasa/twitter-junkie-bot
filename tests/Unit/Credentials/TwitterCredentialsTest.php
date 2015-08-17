@@ -30,8 +30,13 @@ class TwitterCredentialsTest extends \PHPUnit_Framework_TestCase
         $rootDir = vfsStream::newDirectory('rootDir');
         vfsStreamWrapper::setRoot($rootDir);
 
-        $this->setExpectedException('Exception', 'Credentials file not found: vfs://rootDir/' . self::TEST_TWITTER_CREDENTIALS_FILE);
-        $this->sut = new TwitterCredentials(vfsStream::url('rootDir' . DIRECTORY_SEPARATOR . self::TEST_TWITTER_CREDENTIALS_FILE));
+        $this->setExpectedException(
+            'Exception',
+            'Credentials file not found: vfs://rootDir/' . self::TEST_TWITTER_CREDENTIALS_FILE
+        );
+        $this->sut = new TwitterCredentials(
+            vfsStream::url('rootDir' . DIRECTORY_SEPARATOR . self::TEST_TWITTER_CREDENTIALS_FILE)
+        );
     }
 
     /**
@@ -52,7 +57,9 @@ class TwitterCredentialsTest extends \PHPUnit_Framework_TestCase
         $rootDir->addChild($file);
 
         $this->setExpectedException('Exception', 'Credentials file can not be decoded. Is is a valid json file?');
-        $this->sut = new TwitterCredentials(vfsStream::url('rootDir' . DIRECTORY_SEPARATOR . self::TEST_TWITTER_CREDENTIALS_FILE));
+        $this->sut = new TwitterCredentials(
+            vfsStream::url('rootDir' . DIRECTORY_SEPARATOR . self::TEST_TWITTER_CREDENTIALS_FILE)
+        );
     }
 
     /**
@@ -73,7 +80,9 @@ class TwitterCredentialsTest extends \PHPUnit_Framework_TestCase
         $rootDir->addChild($file);
 
         $this->setExpectedException('Exception', 'Error. Twitter credentials file has not necessary keys');
-        $this->sut = new TwitterCredentials(vfsStream::url('rootDir' . DIRECTORY_SEPARATOR . self::TEST_TWITTER_CREDENTIALS_FILE));
+        $this->sut = new TwitterCredentials(
+            vfsStream::url('rootDir' . DIRECTORY_SEPARATOR . self::TEST_TWITTER_CREDENTIALS_FILE)
+        );
     }
 
     /**
@@ -93,7 +102,9 @@ class TwitterCredentialsTest extends \PHPUnit_Framework_TestCase
         $file->write(self::TEST_VALID_CREDENTIALS_JSON);
         $rootDir->addChild($file);
 
-        $this->sut = new TwitterCredentials(vfsStream::url('rootDir' . DIRECTORY_SEPARATOR . self::TEST_TWITTER_CREDENTIALS_FILE));
+        $this->sut = new TwitterCredentials(
+            vfsStream::url('rootDir' . DIRECTORY_SEPARATOR . self::TEST_TWITTER_CREDENTIALS_FILE)
+        );
 
         $this->assertEquals('consumerKeyTest', $this->sut->getConsumerKey());
         $this->assertEquals('consumerSecretTest', $this->sut->getConsumerSecret());

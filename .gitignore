@@ -1,6 +1,7 @@
-config/twitter_credentials.json
+/config/twitter_credentials.json
+/logs/*
+/tests/reports
+/vendor
 
-vendor
-logs/*
-tests/reports
+#phpstorm file
 .idea

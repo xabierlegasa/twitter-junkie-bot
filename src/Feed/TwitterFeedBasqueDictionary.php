@@ -16,7 +16,8 @@ class TwitterFeedBasqueDictionary implements TwitterFeed
 
     public function getStatusMessage()
     {
-        $completeFileName = dirname ( __FILE__ ) . DIRECTORY_SEPARATOR . self::BASQUE_DICTIONARY_FILE;
+        $completeFileName = dirname(__FILE__) . DIRECTORY_SEPARATOR . self::BASQUE_DICTIONARY_FILE;
+
         return $this->randomTranslation->getRandomTranslation($completeFileName);
     }
 }

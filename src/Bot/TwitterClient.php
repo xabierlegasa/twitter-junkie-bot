@@ -38,7 +38,7 @@ class TwitterClient
      * Make POST requests to the API.
      *
      * @param string $path
-     * @param array  $parameters
+     * @param array $parameters
      *
      * @return array|object
      */

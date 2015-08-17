@@ -2,6 +2,8 @@
 
 namespace TwitterJunkieBot\Credentials;
 
+use Monolog\Logger;
+
 class TwitterCredentials
 {
     const TWITTER_CREDENTIALS_FILE = '../config/twitter_credentials.json';
@@ -33,15 +35,19 @@ class TwitterCredentials
             throw new \Exception('Credentials file can not be decoded. Is is a valid json file?');
         }
 
-
-        try {
-            $this->consumerKey = $json['consumerKey'];
-            $this->consumerSecret = $json['consumerSecret'];
-            $this->oAuthToken = $json['oAuthToken'];
-            $this->oAuthSecret = $json['oAuthSecret'];
-        } catch (\Exception $e) {
+        if (empty($json)
+            || !isset($json['consumerKey'])
+            || !isset($json['consumerSecret'])
+            || !isset($json['oAuthToken'])
+            || !isset($json['oAuthSecret'])
+        ) {
             throw new \Exception('Error. Twitter credentials file has not necessary keys');
         }
+
+        $this->consumerKey = $json['consumerKey'];
+        $this->consumerSecret = $json['consumerSecret'];
+        $this->oAuthToken = $json['oAuthToken'];
+        $this->oAuthSecret = $json['oAuthSecret'];
     }
 
     public function getConsumerKey()

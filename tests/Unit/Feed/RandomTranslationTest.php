@@ -14,7 +14,7 @@ class RandomTranslationTest extends \PHPUnit_Framework_TestCase
     const TEST_MALFORMED_TRANSLATIONS_JSON = 'this is an invalid json text';
     const TEST_MISSING_KEY_TRANSLATIONS_JSON = '{"translations":[{"THIS ITEM HAS NO source KEY":"abendu","target":"diciembre"},{"source":"aberats","target":"rico, adinerado"}]}';
 
-    
+
     /** @var RandomTranslation */
     private $sut;
 
@@ -45,7 +45,9 @@ class RandomTranslationTest extends \PHPUnit_Framework_TestCase
         $file->write(self::TEST_VALID_TRANSLATIONS_JSON);
         $rootDir->addChild($file);
 
-        $translation = $this->sut->getRandomTranslation(vfsStream::url('rootDir' . DIRECTORY_SEPARATOR . self::TEST_FILENAME));
+        $translation = $this->sut->getRandomTranslation(
+            vfsStream::url('rootDir' . DIRECTORY_SEPARATOR . self::TEST_FILENAME)
+        );
         $this->assertTrue($translation === 'aberats: rico, adinerado' || $translation === 'abendu: diciembre');
     }
 
@@ -60,8 +62,13 @@ class RandomTranslationTest extends \PHPUnit_Framework_TestCase
         $rootDir = vfsStream::newDirectory('rootDir');
         vfsStreamWrapper::setRoot($rootDir);
 
-        $this->setExpectedException('Exception', 'Error getting random translation from file: vfs://rootDir/' . self::TEST_FILENAME);
-        $translation = $this->sut->getRandomTranslation(vfsStream::url('rootDir' . DIRECTORY_SEPARATOR . self::TEST_FILENAME));
+        $this->setExpectedException(
+            'Exception',
+            'Error getting random translation from file: vfs://rootDir/' . self::TEST_FILENAME
+        );
+        $translation = $this->sut->getRandomTranslation(
+            vfsStream::url('rootDir' . DIRECTORY_SEPARATOR . self::TEST_FILENAME)
+        );
     }
 
     /**
@@ -80,13 +87,18 @@ class RandomTranslationTest extends \PHPUnit_Framework_TestCase
         $file->write(self::TEST_MALFORMED_TRANSLATIONS_JSON);
         $rootDir->addChild($file);
 
-        $this->setExpectedException('Exception', 'Error. Language file is not found or is invalid. File: vfs://rootDir/' . self::TEST_FILENAME);
-        $translation = $this->sut->getRandomTranslation(vfsStream::url('rootDir' . DIRECTORY_SEPARATOR . self::TEST_FILENAME));
+        $this->setExpectedException(
+            'Exception',
+            'Error. Language file is not found or is invalid. File: vfs://rootDir/' . self::TEST_FILENAME
+        );
+        $translation = $this->sut->getRandomTranslation(
+            vfsStream::url('rootDir' . DIRECTORY_SEPARATOR . self::TEST_FILENAME)
+        );
     }
 
     /**
      * Method: getEandomTranslation
-     * When: a translation is missing a key 
+     * When: a translation is missing a key
      * Should: throw exception
      */
     public function testGetRandomTranslationFileIsMissingAKeyThrowException()
@@ -100,7 +112,12 @@ class RandomTranslationTest extends \PHPUnit_Framework_TestCase
         $file->write(self::TEST_MISSING_KEY_TRANSLATIONS_JSON);
         $rootDir->addChild($file);
 
-        $this->setExpectedException('Exception', 'Error. Language file is not found or is invalid. File: vfs://rootDir/' . self::TEST_FILENAME);
-        $translation = $this->sut->getRandomTranslation(vfsStream::url('rootDir' . DIRECTORY_SEPARATOR . self::TEST_FILENAME));
+        $this->setExpectedException(
+            'Exception',
+            'Error. Language file is not found or is invalid. File: vfs://rootDir/' . self::TEST_FILENAME
+        );
+        $translation = $this->sut->getRandomTranslation(
+            vfsStream::url('rootDir' . DIRECTORY_SEPARATOR . self::TEST_FILENAME)
+        );
     }
 }

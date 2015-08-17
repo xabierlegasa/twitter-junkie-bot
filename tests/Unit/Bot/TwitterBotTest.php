@@ -47,6 +47,6 @@ class TwitterBotTests extends \PHPUnit_Framework_TestCase
     private function ifTwitterFeedReturns($statusMessage)
     {
         $this->twitterFeedMock->getStatusMessage()->shouldBeCalled()
-            ->willReturn($statusMessage);
+                              ->willReturn($statusMessage);
     }
 }
