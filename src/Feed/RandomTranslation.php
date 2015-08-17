@@ -12,7 +12,7 @@ class RandomTranslation
         } catch (\Exception $e) {
             throw new \Exception('Error getting random translation from file: ' . $fileName);
         }
-        
+
         if (!$this->translationsDocIsWellFormed($translationsArr)) {
             throw new \Exception('Error. Language file is not found or is invalid. File: ' . $fileName);
         }
@@ -23,7 +23,7 @@ class RandomTranslation
 
         return $translation['source'] . ': ' . $translation['target'];
     }
-    
+
     private function translationsDocIsWellFormed($translationsArr)
     {
         if (!isset($translationsArr['translations']) || count($translationsArr['translations']) < 1) {
@@ -36,6 +36,7 @@ class RandomTranslation
                 return false;
             }
         }
+
         return true;
     }
 }
